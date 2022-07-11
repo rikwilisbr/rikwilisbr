@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my design projects at [https://www.behance.net/henrywillis2](https://www.behance.net/henrywillis2)
 
-- 💬 Ask me about **anything about react**
-
 - 📫 How to reach me **henriquewilliamstos@gmail.com**
 
 - ⚡ Fun fact **maybe i'm a ghost**
