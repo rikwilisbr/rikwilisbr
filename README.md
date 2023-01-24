@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **anything about react**
 
-- 📫 How to reach me **henriquewilliamsantos@gmail.com**
+- 📫 How to reach me **henriquewilliamdsantos@gmail.com**
 
 - ⚡ Fun fact **maybe i'm a ghost**
 
