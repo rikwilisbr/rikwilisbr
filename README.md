@@ -1,7 +1,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=rikwilisbr&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-💬 Ask me about anything about react<br>📫 How to reach me henriquewilliamdsantos@gmail.com
+- 👨‍💻 All of my projects are available at [https://henriquewilliam.me](https://henriquewilliam.me)
+
+- 📝 I regularly write articles on [https://blog.henriquewilliam.me](https://blog.henriquewilliam.me)
+
+- 📫 How to reach me **henriquewilliamdsantos@gmail.com**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/henrywillis2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/henrywilis/) 
