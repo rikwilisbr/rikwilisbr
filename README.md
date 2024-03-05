@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikwilisbr&show_icons=true&locale=en&layout=compact" alt="rikwilisbr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikwilisbr&show_icons=true&locale=en" alt="rikwilisbr" /></p>
+
 
   
 <img src="https://raw.githubusercontent.com/rikwilisbr/rikwilisbr/1adfaa610d07851181d2040084dda7ae984300bf/cobrinha.svg">
