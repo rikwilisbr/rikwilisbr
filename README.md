@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=rikwilisbr&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-- 👨‍💻 All of my projects are available at [https://henriquewilliam.me](https://henriquewilliam.me)
+- 👨‍💻 All of my projects are available at [https://henriquewilliam.vercel.app](https://henriquewilliam.vercel.app)
 
 - 📝 I regularly write articles on [https://blog.henriquewilliam.me](https://blog.henriquewilliam.me)
 
