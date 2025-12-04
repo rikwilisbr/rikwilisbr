@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=rikwilisbr)
-[![wakatime](https://wakatime.com/badge/user/6260d218-d90e-4aff-93ac-03af8d3bd40e.svg)](https://wakatime.com/@6260d218-d90e-4aff-93ac-03af8d3bd40e)
+
 # 💫 About Me:
 - 👨‍💻 All of my projects are available at [https://henriquewilliam.me](https://henriquewilliam.me)
 
